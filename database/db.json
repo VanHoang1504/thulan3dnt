@@ -1,0 +1,22 @@
+{
+  "SinhVien": [
+    {
+      "ma_sinh_vien_ph42448": "PH31536",
+      "ten_ph42448": "Kieu Trinhhh",
+      "gioi_tinh_ph42448": "Nuuu",
+      "ngay_sinh_ph42448": "30/07/2004",
+      "email_ph42448": "trinhpk@gmail.com",
+      "so_dien_thoai_ph42448": 987756487,
+      "id": "a322"
+    },
+    {
+      "ma_sinh_vien_ph42448": "Ph4244865",
+      "ten_ph42448": "hoang",
+      "gioi_tinh_ph42448": "nam",
+      "ngay_sinh_ph42448": "15/05/2004",
+      "email_ph42448": "hoangcvph42448@gmail.com",
+      "so_dien_thoai_ph42448": 323456789,
+      "id": "6696"
+    }
+  ]
+}
